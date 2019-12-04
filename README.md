@@ -1,5 +1,5 @@
 Assignment on using bootstrap
 
-Trying to allign the buttons and I also deleted the heights I used
+working on making the page responsive
 
 https://www.w3schools.com/bootstrap4/bootstrap_flex.asp
